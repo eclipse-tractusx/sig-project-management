@@ -3,7 +3,7 @@ module release-notifier
 go 1.20
 
 require (
-	github.com/Masterminds/semver/v3 v3.2.1
+	github.com/Masterminds/semver/v3 v3.3.0
 	github.com/gocolly/colly v1.2.0
 	github.com/spf13/cobra v1.8.1
 )
