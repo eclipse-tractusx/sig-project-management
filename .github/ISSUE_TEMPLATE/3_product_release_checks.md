@@ -84,6 +84,12 @@ By documenting these features, you will contribute to a smoother and more effici
 | linked feature 2 | Test status | note 2 |
 | linked feature 3 | Test status | note 3 |
 
+## Standard summary
+
+Please provide a list of all standards that have been affected. By documenting these standards, you will contribute to a smoother and more efficient release process.
+
+- [ ] standard name
+
 ## Release Documentation
 <!-- Responsibility: Committer, Testmanagement, Releasemanagement -->
 
